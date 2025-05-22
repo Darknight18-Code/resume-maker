@@ -14,7 +14,7 @@ Welcome to the Dynamic Resume Builder! This application allows users to create p
 
 ## Live Demo
 
-Check out the live demo [here](https://rb-react.vercel.app/).
+Check out the live demo [here](https://resume-maker-phi-sooty.vercel.app/).
 
 
 ## Getting Started
