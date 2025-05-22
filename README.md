@@ -16,9 +16,6 @@ Welcome to the Dynamic Resume Builder! This application allows users to create p
 
 Check out the live demo [here](https://rb-react.vercel.app/).
 
-## GitHub Repository
-
-Access the project repository on GitHub [here](https://github.com/kavyaballa1020/Resume-Builder-React).
 
 ## Getting Started
 
